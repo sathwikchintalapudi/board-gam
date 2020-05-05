@@ -14,6 +14,10 @@ How to play Mancala:
 
 https://www.youtube.com/watch?v=-A-djjimCcM
 
+procedure to start redis server in windows:
+1. open CMD
+2. enter redis-server => to start server 
+
 
 
 Screen 1: 
