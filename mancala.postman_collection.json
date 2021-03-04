@@ -1,0 +1,80 @@
+{
+	"info": {
+		"_postman_id": "d193a29e-dbb5-4baa-9311-ec09c50d0030",
+		"name": "mancala",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "new game",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8014/newgame",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8014",
+					"path": [
+						"newgame"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "join game",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8014/newgame",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8014",
+					"path": [
+						"newgame"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "refresh game",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "execute",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Docker_get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
