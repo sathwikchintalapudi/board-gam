@@ -10,6 +10,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 @SpringBootApplication
 public class MancalaApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(MancalaApplication.class, args);
 	}
